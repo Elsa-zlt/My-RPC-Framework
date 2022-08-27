@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.elsa.rpc.center.RpcCenterConfiguration

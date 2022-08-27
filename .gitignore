@@ -1,0 +1,5 @@
+# Project exclude paths
+/Elsa-RPC-API/target/
+/Elsa-RPC-Center/target/
+/Elsa-RPC-Consumer/target/
+/Elsa-RPC-Provider/target/
